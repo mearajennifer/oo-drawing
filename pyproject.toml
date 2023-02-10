@@ -7,7 +7,7 @@ authors = ["repl.it user <replituser@example.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 pil-compat = "^1.0.0"
-ipython = "^7.19"
+ipython = "^8.10"
 
 [tool.poetry.dev-dependencies]
 
